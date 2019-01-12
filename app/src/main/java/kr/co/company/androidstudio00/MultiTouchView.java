@@ -1,5 +1,6 @@
 package kr.co.company.androidstudio00;
 
+//여러 import들
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
@@ -60,3 +61,4 @@ public class MultiTouchView extends View {
         }
     }
 }
+
